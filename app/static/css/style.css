@@ -1,0 +1,5 @@
+/* Add your custom CSS here */
+body { font-family: sans-serif; }
+.container { padding: 1rem; }
+.flash { margin: 0.5rem 0; padding: 0.5rem; border-radius: 4px; }
+.flash.danger { background: #f8d7da; color: #721c24; }
